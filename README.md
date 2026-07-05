@@ -1,0 +1,20 @@
+## trinket-user 10 QKQ1.200209.002  release-keys
+- Manufacturer: realme
+- Platform: trinket
+- Codename: RMX1911
+- Brand: realme
+- Flavor: trinket-user
+- Release Version: 10
+- Kernel Version: 4.14.117
+- Id: QKQ1.200209.002
+- Incremental: 
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: 
+- OTA version: RMX1911EX_11.C.83_1830_202211301527
+- Branch: RMX1911EX_11.C.83_1830_202211301527
+- Repo: realme_rmx1911_dump
