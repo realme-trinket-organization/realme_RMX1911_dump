@@ -1,0 +1,2 @@
+com.glance.internet
+com.google.android.apps.nbu.paisa.user
